@@ -1,4 +1,4 @@
 # apnacollege-Demo
 This is my first Git repository.
 <br>
-Author-Sofiur Jaman Mandal
+Author-Sofiur Jaman (knox Rony)
